@@ -3,7 +3,7 @@
 
 A powerful and intuitive tool for generating customizable stylized grass meshes directly in the Unity Editor. Create beautiful, stylized grass with complete control over blade shape, distribution, and appearance. Perfect for games with stylized aesthetics, low-poly environments, and custom art directions.
 
-https://github.com/yourusername/ProceduralGrassGenerator/demo.mp4
+https://github.com/roundyyy/ProceduralGrassGenerator/demo.mp4
 
 ## Features
 - Real-time preview and generation
@@ -24,7 +24,7 @@ https://github.com/yourusername/ProceduralGrassGenerator/demo.mp4
 - Built-in randomization system
 
 ## Installation
-1. Download the latest Unity package from [Releases](https://github.com/yourusername/ProceduralGrassGenerator/releases)
+1. Download the latest Unity package from [Releases](https://github.com/roundyyy/ProceduralGrassGenerator/releases)
 2. Import the package into your Unity project
 3. Access the tool through `Tools > Roundy > Procedural Grass Generator`
 
@@ -151,7 +151,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/yourusername/ProceduralGrassGenerator/issues) page
+1. Check the [Issues](https://github.com/roundyyy/ProceduralGrassGenerator/issues) page
 2. Open a new issue with detailed description
 3. Include Unity version and render pipeline information
 
@@ -162,9 +162,8 @@ If you encounter any issues or have questions:
 4. Submit a pull request
 
 ## Acknowledgments
-- Developed by [Your Name]
-- Special thanks to [Contributors]
-- Inspired by [References/Inspirations]
+- Developed by Roundy
+
 
 ## Changelog
 ### v0.1 (Initial Release)
