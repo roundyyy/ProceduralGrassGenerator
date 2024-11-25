@@ -138,7 +138,6 @@ Generated assets are automatically organized in:
 Assets/GeneratedGrass/
 ├── Meshes/      # Individual grass mesh assets
 ├── Materials/   # Generated materials
-├── Shaders/     # Included basic grass shader
 └── Prefabs/     # Ready-to-use grass prefabs
 ```
 
