@@ -145,8 +145,11 @@ Assets/GeneratedGrass/
 - Unity 2020.3 or higher
 - Universal Render Pipeline (URP) or Built-in Render Pipeline
 
+## To do
+- LOD system
+
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Free to use both personal and commercial
 
 ## Support
 If you encounter any issues or have questions:
