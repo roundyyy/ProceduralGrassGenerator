@@ -3,7 +3,7 @@
 
 A powerful and intuitive tool for generating customizable stylized grass meshes directly in the Unity Editor. Create beautiful, stylized grass with complete control over blade shape, distribution, and appearance. Perfect for games with stylized aesthetics, low-poly environments, and custom art directions.
 
-[https://github.com/roundyyy/ProceduralGrassGenerator/demo.mp4](demo.gif)
+![Demo](https://github.com/roundyyy/ProceduralGrassGenerator/blob/main/demo.gif)
 
 ## Features
 - Real-time preview and generation
